@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74651827398",
+    "project_id": "flutter-projects-defcc",
+    "storage_bucket": "flutter-projects-defcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74651827398:android:a0650e207724f836c5abc7",
+        "android_client_info": {
+          "package_name": "com.leocarr.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdnZMYhfjus-vbgtGhkHLcovTXZju7Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
